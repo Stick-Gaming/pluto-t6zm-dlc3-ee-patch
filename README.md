@@ -22,7 +22,7 @@ This script makes the Easter Egg achievable with any amount of players in the ga
 - Have a copy of the complier from [Plutonium forum](https://plutonium.pw/docs/modding/loading-mods/#t6), in the GSC Example Toolkit
 
 ## Installation
-- Compile the script or for a pre-compile go look in our [release](https://github.com/Stick-Gaming/pluto-t6zm-dlc3-ee-patch/release) 
+- Compile the script or for a pre-compile go look in our [release](https://github.com/Stick-Gaming/pluto-t6zm-dlc3-ee-patch/releases) 
 
 - Copy the compile files to your `AppData/Local/Plutonium/storage/t6/scripts/zm/zm_buried` folder _(if you don't have a "zm_buried" folder then create one)_
 
